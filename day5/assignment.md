@@ -19,3 +19,6 @@ Yes, we can make a revert in the init code. But the contract will not be deploye
 
  ## Can you think of a situation where the opcode EXTCODECOPY is used 
  EXTCODECOPY can be used in the upgradable contracts
+
+## Assembly coding questions
+Solutions for the assemble can be found in /assignment-5
